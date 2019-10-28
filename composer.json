@@ -1,0 +1,29 @@
+{
+  "name": "rits/breadcrumbs",
+  "description": "Breadcrumbs for Laravel Application.",
+  "keywords": [
+    "laravel",
+    "breadcrumb"
+  ],
+  "homepage": "https://github.com/rits-tecnologia/breadcrumbs",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Daniel Lopes",
+      "email": "daniellopes@rits.com.br"
+    },
+    {
+      "name": "Juciano Araújo",
+      "email": "jucianoaraujo@rits.com.br"
+    }
+  ],
+  "require": {
+    "php": "^7.1",
+    "illuminate/support": "^5.8|^6.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "Rits\\Breadcrumbs\\": "src/"
+    }
+  }
+}
