@@ -1,9 +1,10 @@
 {
-  "name": "danielorkae/breadcrumbs",
+  "name": "rits/breadcrumbs",
   "description": "Breadcrumbs for Laravel Application.",
   "keywords": [
     "laravel",
-    "breadcrumb"
+    "breadcrumb",
+    "rits"
   ],
   "homepage": "https://github.com/rits-tecnologia/breadcrumbs",
   "license": "MIT",
