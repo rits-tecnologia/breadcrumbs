@@ -24,7 +24,10 @@
   "autoload": {
     "psr-4": {
       "Rits\\Breadcrumbs\\": "src/"
-    }
+    },
+    "files": [
+      "src/helpers.php"
+    ]
   },
   "extra": {
     "laravel": {
