@@ -8,9 +8,22 @@ Breadcrumbs for Laravel Application.
 
 Install the package in your project, using the follow command:
 
+```bash
+composer require rits/breadcrumbs
 ```
-compose require rits/breadcrumbs
+
+If the command above dont find the package, you need to add this repo url to your `composer.json`. Look:
+
+```json
+"repositories": [
+  {
+    "type": "vcs",
+    "url": "https://github.com/rits-tecnologia/breadcrumbs"
+  }
+]
 ```
+
+So you can execute the `composer require` command above.
 
 ## How to use
 
