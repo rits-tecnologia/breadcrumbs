@@ -25,5 +25,12 @@
     "psr-4": {
       "Rits\\Breadcrumbs\\": "src/"
     }
+  },
+  "extra": {
+    "laravel": {
+      "providers": [
+        "Rits\\Breadcrumbs\\Providers\\BreadcrumbsServiceProvider"
+      ]
+    }
   }
 }
