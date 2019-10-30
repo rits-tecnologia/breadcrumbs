@@ -1,3 +1,4 @@
+<img src="https://rits.dev/wp-content/themes/rits/assets/imgs/logotipo-2.png" width="80px"></img>
 # Rits Breadcrumbs
 
 Breadcrumbs for Laravel Application.
